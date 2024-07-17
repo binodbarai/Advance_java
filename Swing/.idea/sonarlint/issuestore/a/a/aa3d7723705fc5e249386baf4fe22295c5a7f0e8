@@ -1,0 +1,6 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8Ï¡È‘…2
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8Ô¡È‘…2
+Z
+java:S3252">Use static access with "javax.swing.SwingConstants" for "TOP".(ÆÉÿf8þþÍ‘…2

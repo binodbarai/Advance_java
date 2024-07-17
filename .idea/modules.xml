@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advance_java.iml" filepath="$PROJECT_DIR$/Advance_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/Swing.iml" filepath="$PROJECT_DIR$/Swing/Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing_and_awt/Swing_and_awt.iml" filepath="$PROJECT_DIR$/Swing_and_awt/Swing_and_awt.iml" />
+    </modules>
+  </component>
+</project>
